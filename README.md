@@ -11,4 +11,4 @@ inteligencia humana o que involucra datos cuya escala excede lo que los humanos 
 + recomendaciones personalizadas
 + analisis de comentarios y feedback
 
-
+[Fuente de la informacion](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=es-419).
